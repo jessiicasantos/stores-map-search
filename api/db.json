@@ -1,0 +1,130 @@
+{
+  "stores": [
+    {
+        "name": "Nike Barra Rio",
+        "address": "Av. das Américas 4666 (Américas Loja 225B), Rio de Janeiro, RJ",
+        "latitude": -23.5617,
+        "longitude": -46.6561
+    },
+    {
+        "name": "Nike Outlet",
+        "address": "Av. Pst. Martin Luther King Junior 126, Rio de Janeiro, RJ",
+        "latitude": -23.5612,
+        "longitude": -46.6789
+    },
+    {
+        "name": "Nike Store - Shopping Leblon",
+        "address": "Av. Ataulfo de Paiva, 123, Rio de Janeiro, RJ",
+        "latitude": -22.9845,
+        "longitude": -43.2247
+    },
+    {
+        "name": "Nike Factory Store - Novo Hamburgo",
+        "address": "Rua Rincao, 505 - B. Rincao, Novo Hamburgo, RS, 93310-460",
+        "latitude": -29.685,
+        "longitude": -51.1289
+    },
+    {
+        "name": "Nike Store - Barra Shopping Sul",
+        "address": "Av. Diário de Notícias, 300, Cristal - Porto Alegre, RS",
+        "latitude": -30.0844,
+        "longitude": -51.2456
+    },
+    {
+        "name": "Nike Factory Store - Light",
+        "address": "R. Cel. Xavier de Toledo, 23 - Centro, São Paulo - SP, 01048-100",
+        "latitude": -23.5456,
+        "longitude": -46.6383
+    },
+    {
+        "name": "Nike Factory Store - Osasco",
+        "address": "Av. dos Autonomistas, 1828 - Vila Yara, Osasco - SP, 06020-010",
+        "latitude": -23.5322,
+        "longitude": -46.7916
+    },
+    {
+        "name": "Nike Factory Store Salvador",
+        "address": "Estrada do Coco, KM13 - Catu de Abrantes, Camaçari - BA, 42840-971",
+        "latitude": -12.6931,
+        "longitude": -38.3244
+    },
+    {
+        "name": "Nike Unite Barra Salvador",
+        "address": "Av. Centenário, 2992 - Chame-Chame, Salvador - BA, 40155-151",
+        "latitude": -13.0103,
+        "longitude": -38.5322
+    },
+    {
+        "name": "Nike Factory Store - Fortaleza OFF",
+        "address": "Rodovia BR-020, 4295 - Caucaia, CE",
+        "latitude": -3.7325,
+        "longitude": -38.5267
+    },
+    {
+        "name": "Nike Factory Store - Araguaia",
+        "address": "Av. Araguaia, 376 - St. Central, Goiânia - GO, 74030-100",
+        "latitude": -16.6777,
+        "longitude": -49.2674
+    },
+    {
+        "name": "Nike Factory Store - Contagem",
+        "address": "Av. Severino Ballesteros Rodrigues, 850 - Ressaca, Contagem - MG, 32110-005",
+        "latitude": -19.9354,
+        "longitude": -44.0539
+    },
+    {
+        "name": "Nike Store - Diamond Mall",
+        "address": "Av. Olegário Maciel, 1600 - Lourdes, Belo Horizonte - MG, 30180-111",
+        "latitude": -19.9232,
+        "longitude": -43.9452
+    },
+    {
+        "name": "Nike Factory Store - Curitiba",
+        "address": "Rua Prof. Pedro Viriato Parigot de Souza, 600 - Ecoville, Curitiba - PR, 81200-100",
+        "latitude": -25.4432,
+        "longitude": -49.2927
+    },
+    {
+        "name": "Nike Factory Store - Vila Velha",
+        "address": "Av. Luciano das Neves, 2418 - Divino Espírito Santo, Vila Velha - ES, 29107-900",
+        "latitude": -20.3417,
+        "longitude": -40.2875
+    },
+    {
+        "name": "Nike Store - Rio Branco",
+        "address": "Av. Ceará, 123, Rio Branco, AC",
+        "latitude": -9.9747,
+        "longitude": -67.8076
+    },
+    {
+        "name": "Nike Outlet - Cruzeiro do Sul",
+        "address": "R. 15 de Novembro, 456, Cruzeiro do Sul, AC",
+        "latitude": -7.6313,
+        "longitude": -72.6756
+    },
+    {
+        "name": "Nike Store - Maceió",
+        "address": "Av. Fernandes Lima, 789, Maceió, AL",
+        "latitude": -9.6612,
+        "longitude": -35.7351
+    },
+    {
+        "name": "Nike Unite - Arapiraca",
+        "address": "R. São Francisco, 567, Arapiraca, AL",
+        "latitude": -9.7549,
+        "longitude": -36.6615
+    },
+    {
+        "name": "Nike Store - Manaus",
+        "address": "Av. Djalma Batista, 1234, Manaus, AM",
+        "latitude": -3.119,
+        "longitude": -60.0212
+    },
+    {
+        "name": "Nike Factory Store - Parintins",
+        "address": "R. Amazonas, 456, Parintins, AM",
+        "latitude": -2.628,
+        "longitude": -56.735
+    }
+  ]
+}

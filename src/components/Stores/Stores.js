@@ -7,7 +7,7 @@ import MapStores from "../MapStores/MapStores";
 import { config } from "../../lib/config";
 import { distance } from "../../lib/helpers";
 import PinMapa from "../../assets/img/icon_pin_mapa.svg";
-import dataStores from "./stores.json";
+import axios from "axios";
 
 const InfoWindow = () => (
   <div id="infowindow-content">
@@ -25,7 +25,11 @@ const Stores = () => {
 
   async function fetchStores() {
     try {
-      let dataResponse = dataStores;
+      let response = await axios.get(
+        "http://localhost:3001/stores"
+      );
+
+      let dataResponse = await response.data;
 
       setStores(dataResponse);
     } catch (err) {
