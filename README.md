@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Store Map Search
+A Nike Store map search built with React + Google Maps
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![alt text](image.png)
 
 ## Available Scripts
 
